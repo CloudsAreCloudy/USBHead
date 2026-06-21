@@ -15,3 +15,14 @@ I wanted to learn hardware and USB Hub was one of the easiest options, but I'm n
 ## PCB Renders!!
 <img width="1070" height="472" alt="Screenshot 2026-06-22 033357" src="https://github.com/user-attachments/assets/e16dd510-dd8a-4ba3-a16b-d190aa730d3f" />
 <img width="1062" height="493" alt="Screenshot 2026-06-22 033422" src="https://github.com/user-attachments/assets/6bf3fea8-8851-4636-b1f2-f7d0589c2f63" />
+
+## How do I build it?
+All you need to build this is a PCBA from JLCPCB, and the 3D Printed Case. You can build it with the PCB and components separately too but the 0603 capacitors and resistors are too tiny to hand solder.
+Here's how much it costed me to build it:
+
+| Part | Price |
+| ---- | ----- |
+| PCBA with shipping to India | $23.7 |
+| 3D Printed Case | $0 |
+
+You can place an order for the PCB using the PCB files in the repo, and 3D print the case using the 3mf file. after that all you have to do is put the PCB in the case, run the upstream cable through the body of the hammerhead shark, and close the top of the case. You can use glue if you want it to be in place, but I prefer leaving it as is if in case you have to change the cable ever.
